@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+uv.lock
+# 运行时生成的产物
+stage6_rag/policy.db
+stage5_memory/memory.md
+stage3_harness/gateway_log.jsonl
+stage3_harness/traces/
+stage1_chat/chat_history.json
+stage1_chat/_selftest_history.json

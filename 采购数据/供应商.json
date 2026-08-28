@@ -1,0 +1,129 @@
+[
+  {
+    "id": "S001",
+    "name": "西安高压电气设备有限公司",
+    "credit_code": "91610100MA6X1234XA",
+    "category": ["高压开关", "成套设备"],
+    "legal_person": "张建国",
+    "reg_capital_wan": 5000,
+    "established_year": 2003,
+    "qualifications": ["ISO9001", "ISO14001", "高压电气生产许可证"],
+    "qualification_expire": "2027-05-01",
+    "history_projects": [
+      {"project": "35kV开关柜采购", "year": 2023, "amount_wan": 320, "unit_price": 8.0, "qty": 40, "evaluation": "优"},
+      {"project": "10kV环网柜采购", "year": 2024, "amount_wan": 180, "unit_price": 6.0, "qty": 30, "evaluation": "良"}
+    ],
+    "risk_status": "正常",
+    "background_check": "完整"
+  },
+  {
+    "id": "S002",
+    "name": "华电成套电气股份有限公司",
+    "credit_code": "91330100MA2K5678XB",
+    "category": ["成套设备", "变压器"],
+    "legal_person": "李伟",
+    "reg_capital_wan": 12000,
+    "established_year": 1998,
+    "qualifications": ["ISO9001", "ISO45001", "变压器制造资质"],
+    "qualification_expire": "2026-11-15",
+    "history_projects": [
+      {"project": "干式变压器采购", "year": 2022, "amount_wan": 450, "unit_price": 15.0, "qty": 30, "evaluation": "优"},
+      {"project": "成套配电柜采购", "year": 2024, "amount_wan": 260, "unit_price": 6.5, "qty": 40, "evaluation": "优"}
+    ],
+    "risk_status": "正常",
+    "background_check": "完整"
+  },
+  {
+    "id": "S003",
+    "name": "江南电缆有限责任公司",
+    "credit_code": "91320200MA1M9012XC",
+    "category": ["电线电缆"],
+    "legal_person": "王芳",
+    "reg_capital_wan": 8000,
+    "established_year": 2007,
+    "qualifications": ["ISO9001", "电缆生产许可证"],
+    "qualification_expire": "2025-03-20",
+    "history_projects": [
+      {"project": "高压电缆采购", "year": 2023, "amount_wan": 210, "unit_price": 3.5, "qty": 60, "evaluation": "良"}
+    ],
+    "risk_status": "关注",
+    "background_check": "完整"
+  },
+  {
+    "id": "S004",
+    "name": "北方智能仪表科技有限公司",
+    "credit_code": "91110100MA3P3456XD",
+    "category": ["智能仪表", "监测装置"],
+    "legal_person": "赵强",
+    "reg_capital_wan": 3000,
+    "established_year": 2015,
+    "qualifications": ["ISO9001", "CMC计量认证"],
+    "qualification_expire": "2028-01-10",
+    "history_projects": [
+      {"project": "智能电表采购", "year": 2024, "amount_wan": 90, "unit_price": 0.12, "qty": 7500, "evaluation": "良"}
+    ],
+    "risk_status": "正常",
+    "background_check": "完整"
+  },
+  {
+    "id": "S005",
+    "name": "远东电力工程有限公司",
+    "credit_code": "91440300MA5R7890XE",
+    "category": ["电力工程", "安装服务"],
+    "legal_person": "陈明",
+    "reg_capital_wan": 6000,
+    "established_year": 2010,
+    "qualifications": ["电力工程施工总承包三级"],
+    "qualification_expire": "2024-09-01",
+    "history_projects": [
+      {"project": "变电站安装工程", "year": 2022, "amount_wan": 380, "unit_price": 380.0, "qty": 1, "evaluation": "中"}
+    ],
+    "risk_status": "高风险",
+    "background_check": "不完整"
+  },
+  {
+    "id": "S006",
+    "name": "西安高压电气设备有限责任公司",
+    "credit_code": "91610100MA6X1234XA",
+    "category": ["高压开关"],
+    "legal_person": "张建国",
+    "reg_capital_wan": 5000,
+    "established_year": 2003,
+    "qualifications": ["ISO9001", "高压电气生产许可证"],
+    "qualification_expire": "2027-05-01",
+    "history_projects": [],
+    "risk_status": "正常",
+    "background_check": "完整",
+    "_note": "本条与S001是同一家企业的不同写法（有限公司/有限责任公司），用于练习去重与名称归一"
+  },
+  {
+    "id": "S007",
+    "name": "中原电气集团有限公司",
+    "credit_code": "91410100MA4T2345XF",
+    "category": ["成套设备", "高压开关", "变压器"],
+    "legal_person": "刘洋",
+    "reg_capital_wan": 20000,
+    "established_year": 1995,
+    "qualifications": ["ISO9001", "ISO14001", "ISO45001", "高压电气生产许可证"],
+    "qualification_expire": "2029-06-30",
+    "history_projects": [
+      {"project": "35kV成套开关设备", "year": 2023, "amount_wan": 600, "unit_price": 10.0, "qty": 60, "evaluation": "优"}
+    ],
+    "risk_status": "正常",
+    "background_check": "完整"
+  },
+  {
+    "id": "S008",
+    "name": "蓝海新能源设备有限公司",
+    "credit_code": "91350200MA6Y6789XG",
+    "category": ["新能源设备", "储能"],
+    "legal_person": "周涛",
+    "reg_capital_wan": 4000,
+    "established_year": 2019,
+    "qualifications": ["ISO9001"],
+    "qualification_expire": "2026-02-28",
+    "history_projects": [],
+    "risk_status": "关注",
+    "background_check": "不完整"
+  }
+]
